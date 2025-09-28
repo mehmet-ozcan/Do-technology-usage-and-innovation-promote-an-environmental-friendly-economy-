@@ -1,5 +1,4 @@
-# 🌱 Do Technology Usage and Innovation Promote an Environmental Friendly Economy?  
-### Evidence from Selected 30 Asian Economies  
+# 🌱 Do Technology Usage and Innovation Promote an Environmental Friendly Economy?  Evidence from Selected 30 Asian Economies
 
 This repository accompanies the article:  
 
