@@ -18,7 +18,7 @@ The research employs **Data Envelopment Analysis (DEA)** to compute efficiency s
 - Their **environmental benefits** emerge only after surpassing a threshold of **~14,900 USD per capita**.  
 - Achieving high economic efficiency alone does not ensure sustainability unless innovation strategies are aligned with **green growth policies**.  
 
-This study contributes to sustainable development debates by providing **empirical evidence** that innovation-driven strategies are essential for reconciling economic expansion with environmental protection:contentReference[oaicite:1]{index=1}.  
+This study contributes to sustainable development debates by providing **empirical evidence** that innovation-driven strategies are essential for reconciling economic expansion with environmental protection.  
 
 ---
 
